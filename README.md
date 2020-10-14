@@ -1,1 +1,2 @@
 # identity-and-access-management-smoke-test-application
+An identity provider stores and manages users' digital identities. identity provider provides access token to user defining access sopes of registered resource application(resource server). users can access resources which are registered on IS, by using this identity details. This access details can be any type of access providing types such as OAuth, SAML, OpenID etc. 

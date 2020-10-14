@@ -1,4 +1,4 @@
-# WSO2-IS-Access-Token
+# WSO2-IS OAuth 2.0 Access-Token
 Obtain an access token for a new application from WSO2 Identity Server - CURL
 
 WSO2 IS(Identity Server) is an open source product which provide number of IAM solutions such as SSO, Identity Federation, Authentication - be it multi-factor authentication or adaptive authentication, and more.
