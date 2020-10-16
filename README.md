@@ -1,4 +1,4 @@
-# identity-and-access-management-smoke-test-application
+# Identity and Access Management smoke test
 An identity provider stores and manages users' digital identities. identity provider provides access token to user defining access sopes of registered resource application(resource server). users can access resources which are registered on IS, by using this identity details. This access details can be any type of access providing types such as OAuth, SAML, OpenID etc. 
 
 ## [OAuth 2.0 ](https://github.com/Chathurangap688/identity-and-access-management-smoke-test-application/tree/main/OAuth%202.0)
